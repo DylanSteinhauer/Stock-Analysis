@@ -18,9 +18,10 @@ This helps the script run more efficiently.
 ![Refactored_Code(2)](https://user-images.githubusercontent.com/87148177/130001374-18373f50-cfb5-4a0c-9f86-a6bcc21d419f.png)
 ### Script Times
 When running the refactored code, it was significantly faster than the original code.
-This is evidenced by my screenshots:
+Here are my original script times:
 ![Original_Time_2017](https://user-images.githubusercontent.com/87148177/130001398-9249b48f-737e-45c9-8311-d9329127ac4d.png)
 ![Original_Time_2018](https://user-images.githubusercontent.com/87148177/130001425-68a5c268-df27-4dc1-8771-5d9e8e75d9d6.png)
+And my refactored times:
 ![Refactored_Time_2017](https://user-images.githubusercontent.com/87148177/130001437-76e6d7d5-96da-44c3-809c-70c21bf83c6a.png)
 ![Refactored_Time_2018](https://user-images.githubusercontent.com/87148177/130001447-80e38e3c-7195-4609-83cd-ba83331b8d14.png)
 ## Summary
