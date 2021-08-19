@@ -11,7 +11,7 @@ I matched the other three arrays with the tickers array by using the variable ti
 I used this variable to assign the tickerVolumes, tickerStartingPrices, and tickerEndingPrices to each ticker symbol before running through the dataset
 This helps the script run more efficiently.
 ### Here are screenshots of my original code:
-![Original_Code(1)](path/to/Original_Code(1).png)
+![Original_Code(1)](https://user-images.githubusercontent.com/87148177/130001296-be297a97-2e78-4f81-84dc-8969ac0db442.png)
 ![Original_Code(2)](path/to/Original_Code(2).png)
 ### And Refactored Code
 ![Refactored_Code(1)](path/to/Refactored_Code(1).png)
