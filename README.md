@@ -28,10 +28,9 @@ This is evidenced by my screenshots:
 Refactoring code can improve the design of the code, can make it easier to understand, can help with finding bugs, and can make programming faster.
 However, if refactoring is done incorrectly, it can mess up the code and potentially introduce new bugs.
 ### Refactoring This Code
-Refactoring this code made it easier to read and it also steamlined the process so that the script could run faster.
-
-
-
+First, refactoring this code made it easier to read. It is more condensed and doesn't require a seperate sub for the formatting table. 
+Also, refactoring the code made it run much faster. The original code ran 2017 in about 0.9 seconds, while the refactored code ran it in about 0.1.
+The original code ran 2018 in 1.1 seconds, while the refactored code ran it in about 0.2 seconds.
 
 
 
