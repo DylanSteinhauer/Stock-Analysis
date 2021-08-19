@@ -12,17 +12,17 @@ I used this variable to assign the tickerVolumes, tickerStartingPrices, and tick
 This helps the script run more efficiently.
 ### Here are screenshots of my original code:
 ![Original_Code(1)](https://user-images.githubusercontent.com/87148177/130001296-be297a97-2e78-4f81-84dc-8969ac0db442.png)
-![Original_Code(2)](path/to/Original_Code(2).png)
+![Original_Code(2)](https://user-images.githubusercontent.com/87148177/130001341-2661604f-e549-4659-92c1-db280ac42238.png)
 ### And Refactored Code
-![Refactored_Code(1)](path/to/Refactored_Code(1).png)
-![Refactored_Code(2)](path/to/Refactored_Code(2).png)
+![Refactored_Code(1)](https://user-images.githubusercontent.com/87148177/130001365-7eb00b39-b689-4ec0-868b-5bbf85773af9.png)
+![Refactored_Code(2)](https://user-images.githubusercontent.com/87148177/130001374-18373f50-cfb5-4a0c-9f86-a6bcc21d419f.png)
 ### Script Times
 When running the refactored code, it was significantly faster than the original code.
 This is evidenced by my screenshots:
-![Original_Time_2017](path/to/Original_Time_2017.png)
-![Original_Time_2018](path/to/Original_Time_2018.png)
-![Refactored_Time_2017](path/to/Refactored_Time_2017.png)
-![Refactored_Time_2018](path/to/Refactored_Time_2018.png)
+![Original_Time_2017](https://user-images.githubusercontent.com/87148177/130001398-9249b48f-737e-45c9-8311-d9329127ac4d.png)
+![Original_Time_2018](https://user-images.githubusercontent.com/87148177/130001425-68a5c268-df27-4dc1-8771-5d9e8e75d9d6.png)
+![Refactored_Time_2017](https://user-images.githubusercontent.com/87148177/130001437-76e6d7d5-96da-44c3-809c-70c21bf83c6a.png)
+![Refactored_Time_2018](https://user-images.githubusercontent.com/87148177/130001447-80e38e3c-7195-4609-83cd-ba83331b8d14.png)
 ## Summary
 ### Pros and Cons of Refactoring Code
 Refactoring code can improve the design of the code, can make it easier to understand, can help with finding bugs, and can make programming faster.
